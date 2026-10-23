@@ -1,0 +1,6 @@
+D:\whlo\UnityPro\RMM\Temp\bin\Debug\Assembly-CSharp.dll
+D:\whlo\UnityPro\RMM\Temp\bin\Debug\Assembly-CSharp.pdb
+D:\whlo\UnityPro\RMM\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+D:\whlo\UnityPro\RMM\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
+D:\whlo\UnityPro\RMM\obj\Debug\Assembly-CSharp.dll
+D:\whlo\UnityPro\RMM\obj\Debug\Assembly-CSharp.pdb
